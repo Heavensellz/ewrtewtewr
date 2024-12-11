@@ -1,5 +1,5 @@
 local CommandModule = {}
-local url = "http://127.0.0.1:8000/command" -- or your server url
+local url = "http://127.0.0.1:5000/command" -- or your server url
 local Commands = {}
 local Cache = {}
 
